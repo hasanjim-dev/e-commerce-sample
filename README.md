@@ -6,17 +6,6 @@ A full-stack e-commerce web application built with **React**, **Node.js**, **Exp
 <!-- 🔗 **Live Demo:** [hasan-jim-shop.vercel.app](#) -->
 
 ---
-
-## 📸 Screenshots
-
-<!-- Replace these with your own screenshots — drag & drop images into the GitHub README editor, or add them to a /screenshots folder and reference them like below -->
-
-| Home Page | Shop Page | Admin Dashboard |
-|---|---|---|
-| ![Home] () | ![Shop]() | ![Admin] () |
-
----
-
 ## ✨ Features
 
 ### Customer
